@@ -61,7 +61,7 @@ This project helps **home buyers, investors, and developers** quickly estimate f
 
 ## 📂 How to Run
 # Clone this repository
-git clone https://github.com/yourusername/bengaluru-house-price-prediction.git
+git clone https://github.com/panidhargudupa/bengaluru_houseprice_prediction.git
 
 # Place dataset inside project folder
 Bengaluru_House_Data_With_Year.xlsx
